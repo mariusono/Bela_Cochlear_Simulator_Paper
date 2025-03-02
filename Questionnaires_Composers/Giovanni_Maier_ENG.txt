@@ -1,0 +1,28 @@
+Composer: Giovanni Maier
+
+- What was your main goal in deciding which piece to choose for the CI simulator?
+The goal was to identify a composition that develops within a musical realm where the limitations derived from using the simulator are as minimal as possible. In this case, the choice fell on rhythmic development, as I noticed that this parameter remains virtually unchanged, even when exiting the simulator.
+
+- What musical limitations did you encounter with the CI simulator?
+Unlike rhythm, the other musical parameters (harmony, melody, and timbre) appear to be distorted in a significantly more pronounced way.
+
+- Once you listened to the original piece through the CI simulator, what was your remixing strategy?
+I chose to emphasize the rhythmic aspect by employing a sound production technique on the double bass using the so-called "ghost notes." These are achieved by plucking the strings in an area near the instrument’s bridge while almost muting the strings on the fingerboard with the left hand to prevent excessive vibration. In this way, the rhythmic component is accentuated because only the note's attack remains, with the rest of the vibration decaying rapidly.
+
+- That is, did you focus on removing/adding/emphasizing elements or rewriting melodic patterns?
+I focused on removing the elements most "sacrificed" by the simulator (melody and timbre) and enhancing those that remain almost intact (rhythm and density).
+How much do you think the CI simulator compromised the possibilities for musical expression?
+As mentioned, the simulator highlighted a significant distortion of certain parameters, leading to a more conventional music where the message—primarily conveyed through its melodic parameters (variations in pitch)—is considerably compromised. However, by calibrating the compositional/performative aspect on the elements that remain unchanged (rhythm), I believe the possibilities for expression can remain effective. Therefore, I think some instruments (percussion, electronic instruments) are more suitable than others for this type of sonic communication.
+
+- Which musical elements were most compromised?
+As already mentioned, the pitch of the notes and their timbre (the harmonic spectrum of the sound).
+
+- Did the composition you chose to develop include voice/speech? Yes/No, and why?
+No, the composition I chose, entitled "Circus," features a performance by the double bass alone. I opted for a solo performance to simplify the layering of materials as much as possible, which would have made the message less clear in the absence of effective melodic and timbral intelligibility.
+
+- Do you think that the use of voice/speech can be employed musically with the CI simulator?
+I believe so, although I did not use that medium, as mentioned.
+
+- What would be your approach if you had to create a new composition from scratch for the CI simulator? That is, what elements would you focus on?
+
+If I were to create a new composition, I would try to develop rhythmic elements, preferably using percussive instruments, or any instruments in which the note attack is crucial in shaping the sound (such as vibraphone, marimba, drums, wood blocks, although the electric guitar and electric bass played with a pick—and perhaps the piano—could also be effective).

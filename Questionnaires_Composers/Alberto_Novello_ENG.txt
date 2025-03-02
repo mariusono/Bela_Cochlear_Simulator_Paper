@@ -1,0 +1,42 @@
+Composer: Alberto Novello
+
+- what was your main focus when deciding which piece to choose for the CI simulator ?
+
+I thought a rhythmical piece was easier to follow and compare. 
+
+- what were the musical limitations you found that came with the CI simulator ?
+
+Mostly some frequency bands where underrepresented and disappeared. I could not bring them back using an EQ.
+
+- once you heard the original piece through the CI simulator, what was your remixing strategy ?
+
+Trying to reconstruct the original frequency material. I missed some bass and high definition. I also had a bit of resonances/bursts in the middle highs that needed elimination.
+
+    - i.e. did you focus on removing/adding/highlighting elements ? re-writing melody patterns ? 
+
+removing the high bursts and compensating the internal filtering that had occurred
+
+- how much did you feel the CI simulator impaired the possibilities of musical expression ? 
+
+it was quite extreme but I could nevertheless track bpms and song construction.
+
+    - what were the musical elements that were most impaired ?
+
+the harmonic and timbrical elements. I could not hear for example a trumpet that was in the mix. It became a noisy voice.
+
+- did the composition you choose to process include vocals/speech? for yes/no, why? 
+
+no vocals. Just because I don't work with singers usually.
+
+    - do you think the use of vocals/speech could be used in a musical way with the CI simulator ?
+
+I think so, the transient could be conserved better than in the case of a sustained instrument
+
+- what would your approach be if you would make a new composition from scratch for the CI simulator ? 
+
+I would try to see what elements would be mostly preserved.  Trying to compose while listening to the CI's output. 
+Then work with those elements, e.g. maybe limiting my frequency range, or using only percussive elements. Or noise.
+
+    - i.e. what elements would you focus on ? 
+
+for sure the rhythmical parts, but also maybe frequency sweeps. A new vocabulary would need to be defined. I would imagine music that can be listened on old phones or non linear devices.

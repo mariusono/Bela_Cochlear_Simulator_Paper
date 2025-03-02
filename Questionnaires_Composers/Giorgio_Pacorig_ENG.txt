@@ -1,0 +1,32 @@
+Composer: Giorgio Pacorig
+
+- What was your main goal in deciding which piece to choose for the CI simulator?
+
+I chose a piece that I know well in order to be able to best control the modifications.
+
+- What musical limitations did you encounter with the CI simulator?
+
+The poor recognizability of the original material.
+
+- Once you listened to the original piece through the CI simulator, what was your remixing strategy?
+  - That is, did you focus on removing/adding/emphasizing elements or rewriting melodic patterns?
+
+I tried to adjust the equalization to bring out frequencies that would make the original piece more recognizable.
+
+- How much do you think the CI simulator compromised the possibilities for musical expression?
+  - Which musical elements were most compromised?
+
+Honestly, I believe it considerably compromised the harmonic and melodic aspects, leaving only some semblance in the rhythmic part.
+
+- Did the composition you chose to develop include voice/speech? Yes/No, and why?
+
+The composition I chose did not include voice because I usually play and compose instrumental music, and I chose a piece from the realm that is most familiar to me.
+
+- Do you think that the use of voice/speech can be employed musically with the CI simulator?
+
+Honestly, I wouldn't know—I would have to try it first.
+
+- What would be your approach if you had to create a new composition from scratch for the CI simulator?
+  - That is, what elements would you focus on?
+
+I believe I would concentrate more on very simple and well-defined rhythmic elements.

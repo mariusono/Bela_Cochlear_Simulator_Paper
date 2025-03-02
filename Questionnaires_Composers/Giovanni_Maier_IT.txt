@@ -1,0 +1,33 @@
+
+Questionario per i compositori (risposte soggettive/qualitative):
+
+- qual è stato il suo obiettivo principale nel decidere quale brano scegliere per il simulatore di CI?
+L'obiettivo è stato quello di individuare una composizione che si sviluppi in un ambito musicale nel quale le limitazioni derivanti dall'uso del simulatore siano contenute il più possibile. In questo caso la scelta è caduta sullo sviluppo ritmico, in quanto ho constatato che tale parametro rimane praticamente invariato, anche in uscita dal simulatore.
+ 
+- quali sono state le limitazioni musicali che avete riscontrato con il simulatore CI?
+Contrariamente al ritmo, gli altri parametri musicali (armonia, melodia e timbro) risultano distorti in maniera decisamente più importante.
+ 
+- una volta ascoltato il brano originale attraverso il simulatore CI, qual è stata la vostra strategia di remixing?
+Ho scelto di enfatizzare l'aspetto ritmico utilizzando una tecnica di emissione del suono sul contrabbasso usando le cosiddette "ghost notes", che si ottengono pizzicando le corde in una zona vicina al ponticello dello strumento ed invece quasi bloccando le corde sulla tastiera con la mano sinistra per evitare che vibrino troppo. In questo modo la componente ritmica viene esaltata perché rimane quasi solo l'attacco della nota e il resto della vibrazione decade rapidamente.
+ 
+    - cioè vi siete concentrati sulla rimozione/aggiunta/esaltazione di elementi, sulla riscrittura di schemi melodici?
+Rimozione degli elementi più "sacrificati" dal simulatore (melodia e timbro) ed esaltazione di quelli che rimangono quasi integri (ritmo e densità)
+ 
+
+- Quanto ha ritenuto che il simulatore di CI abbia compromesso le possibilità di espressione musicale?
+Come detto, il simulatore ha evidenziato una distorsione notevole di alcuni parametri e quindi una musica più convenzionale, nella quale il messaggio risiede maggiormente nei suoi parametri melodici (variazioni di altezza delle note), risulta compromessa in maniera piuttosto notevole. Calibrando però l'aspetto compositivo/performativo sugli elementi che vengono lasciati invariati (il ritmo) credo che le possibilità di espressione possano rimanere efficaci. Perciò credo che alcuni strumenti (percussioni, strumenti elettronici) siano più adatti di altri per questo tipo di comunicazione sonora.
+ 
+
+    - quali sono stati gli elementi musicali maggiormente compromessi?
+Come già detto, l'altezza delle note ed il loro timbro (spettro delle armoniche del suono)
+ 
+- la composizione che avete scelto di elaborare includeva voce/parlato? sì/no, perché?
+No, la composizione che ho scelto, che si intitola "Circus" prevede un'esecuzione effettuata dal contrabbasso da solo. Ho scelto di effettuare una performance in solo per semplificare il più possibile la stratificazione di materiali, che avrebbe reso meno chiaro il messaggio, in mancanza di una intelligibilità melodica e timbrica efficace.
+ 
+
+    - pensa che l'uso di voce/parlato possa essere utilizzato in modo musicale con il simulatore IC?
+Credo di sì, anche se non ho utilizzato tale mezzo, come detto.
+ 
+- quale sarebbe il vostro approccio se doveste creare una nuova composizione da zero per il simulatore CI?
+    - Cioè, su quali elementi vi concentrereste?
+Dovendo creare una nuova composizione proverei a sviluppare degli elementi ritmici, utilizzando preferibilmente strumenti percussivi, o comunque strumenti in cui l'attacco delle note risulti importante nella formazione del suono (vibrafono, marimba, tamburi, wood blocks ma probabilmente potrebbero essere efficaci anche la chitarra elettrica ed il basso elettrico suonati con il plettro e forse il pianoforte).
